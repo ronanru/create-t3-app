@@ -101,7 +101,7 @@ Vercel took the hell of web deployments and made it a set-and-forget GitHub inte
 
 **For databases without the worry**
 
-PlanetScale is the best "serverless database platform" we've used by far. Insane scale, great developer experience, and fantastic pricing. If you're using SQL (and hopefully Prisma), this is hard to beat.
+PlanetScale is the best "serverless database platform" we've used by far. Insane scale, great developer experience, <del>and fantastic pricing</del>. If you're using SQL (and hopefully Prisma), this is hard to beat.
 
 - [PlanetScale Homepage](https://planetscale.com/)
 
